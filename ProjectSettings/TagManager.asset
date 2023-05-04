@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - button
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - button
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Grid
+    uniqueID: 382822237
+    locked: 0
+  - name: ship
+    uniqueID: 3357605105
+    locked: 0
+  - name: place_button
+    uniqueID: 719242003
+    locked: 0
+  - name: gui
+    uniqueID: 2531780769
+    locked: 0
+  - name: okay_button
+    uniqueID: 3984142711
+    locked: 0
